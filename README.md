@@ -15,9 +15,9 @@ My current favorites are F# and Rust.
 
 
 ### Tech summary
-Databases: Postgres, Cassandra, MongoDB, InfluxDB, ClickHouse
+Databases: Postgres, Cassandra, MongoDB, InfluxDB, ClickHouse, kdb+
 
-Languages: Perl, PHP, Python, Go.
+Languages: Perl, PHP, Python, Q, Go.
 
 Tech: rancher, docker, kafka
 
