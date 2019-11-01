@@ -6,6 +6,8 @@ gtonky@gmail.com
 
 Dnipro, Ukraine
 
+English - Upper-Intermediate Strong
+
 ### About me
 Programming languages enthusiast. Love tools that improve productivity. Strives for short and more correct code.
 
