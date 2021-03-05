@@ -40,23 +40,23 @@ Backend engineer(Go, Python) @ EVO
 
  Not-yet-public internal startup
 
-    - started main backend service from scratch with Gitlab CD/CD pipelines for dev and prod environments(golang, k8s, helm)
-    - prototyped and implemented security model for external service(REST: headers or )
-    - discussed and implemented several integrations with internal and external services(HTTP proxy, GRPC and/or REST APIs)
-    - implemented unit, integration and E2E tests(dockertest, k3s)
+    * started main backend service from scratch with Gitlab CD/CD pipelines for dev and prod environments(golang, k8s, helm)
+    * prototyped and implemented security model for external service(REST: headers or )
+    * discussed and implemented several integrations with internal and external services(HTTP proxy, GRPC and/or REST APIs)
+    * implemented unit, integration and E2E tests(dockertest, k3s)
 
  Prom.ua ProSales team
 
-    - added new service to handle click views(Golang, Kafka, GRPC, K8s, helm)
-    - implemented several merchant admin UI features with Python and custom Elm-inspired React based JS framework 'tanok'(https://github.com/brabadu/tanok)
+    * added new service to handle click views(Golang, Kafka, GRPC, K8s, helm)
+    * implemented several merchant admin UI features with Python and custom Elm-inspired React based JS framework 'tanok'(https://github.com/brabadu/tanok)
 
 
 #### 2020 - 2021
 
 Backend engineer(Rust) @ Paxx
 
-    - idiomatically reimplemented and improved python version of route generation and optimal planning for vehicles and passengers(Rust, CPLEX linear solver)
-    - consulted and collaborated on feature changes
+    * idiomatically reimplemented and improved python version of route generation and optimal planning for vehicles and passengers(Rust, CPLEX linear solver)
+    * consulted and collaborated on feature changes
 
 
 #### 2015 - 2020
