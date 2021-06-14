@@ -2,9 +2,11 @@
 
 Igor Tonkopryadchenko
 
+```
 gtonky@gmail.com
 https://github.com/tonky
 https://www.linkedin.com/in/tonky/
+```
 
 Dnipro, Ukraine
 
