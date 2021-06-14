@@ -3,6 +3,8 @@
 Igor Tonkopryadchenko
 
 gtonky@gmail.com
+https://github.com/tonky
+https://www.linkedin.com/in/tonky/
 
 Dnipro, Ukraine
 
@@ -10,21 +12,21 @@ English - Upper-Intermediate Strong
 
 ## About me
 
-Programming languages enthusiast. Love tools that improve productivity. Strives for short and maintainable code.
+Programming languages enthusiast. Love tools that improve productivity. Strive for short and maintainable code.
 
 Functional programming, domain driven design and TDD are great ideas. Vim and Linux are awesome. Integration testing, internal tooling and deployment automation should be prioritized.
 
-My current hobby favorites are F# and Rust.
+My current favorite PLs are F# and Rust.
 
 ## Tech summary
 
 Databases: Postgres, Cassandra, MongoDB, InfluxDB, ClickHouse, kdb+
 
-Languages: Go, Rust, Python, Perl, PHP, Q.
+Languages: Rust, Go, Python, Perl, PHP, Q.
 
-Tech: rancher, docker, kafka
+Tech: kubernetes, helm, docker, kafka
 
-Personal interests: F#, Rust, Elm, kubernetes, CI/CD, IaC
+Personal interests: F#, Rust, Elm, CI/CD, IaaC
 
 ## Work summary
 
@@ -88,5 +90,3 @@ Tech: Python, Flask, Twisted, Django, Zope, Pyramids, Postgres, MySQL, MongoDB
 * PHP developer @ AdMad
 * Python, PHP developer @ Workrocks
 * PHP, Perl developer @ Resonance Technologies
-
-p.s. Complementary profile with [detailed work history on Linkedin](https://www.linkedin.com/in/tonky/).
