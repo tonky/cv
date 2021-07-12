@@ -12,6 +12,8 @@ Dnipro, Ukraine
 
 English - Upper-Intermediate Strong
 
+Masters of iformatics, DNU, Ukraine
+
 ## About me
 
 Programming languages enthusiast. Love tools that improve productivity. Strive for short and maintainable code.
@@ -45,7 +47,7 @@ Backend engineer(Go, Python) @ EVO
 Not-yet-public internal startup
 
 * started main backend service from scratch with Gitlab CD/CD pipelines for dev and prod environments(golang, k8s, helm)
-* prototyped and implemented security model for external service(REST: headers or )
+* prototyped and implemented security model for external service(REST: headers or query/payload args)
 * discussed and implemented several integrations with internal and external services(HTTP proxy, GRPC and/or REST APIs)
 * implemented unit, integration and E2E tests(dockertest, k3s)
 
